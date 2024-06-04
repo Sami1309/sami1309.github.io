@@ -7,12 +7,8 @@ title: Sam Inloes
 permalink: /
 ---
 
-# About Me
-Welcome to my personal website. Here's a little about myself:
+Right now, I'm working on hacking large language models, building systems to help make AI agents more reliable, and exploring how work, life, and how we view ourselves will change in the age of AI.
 
-[Your Bio Here]
-- I'm a [your job/role].
-- I enjoy [your hobbies].
-- I'm passionate about [your passions].
+Previously, I have worked in MLOps and was a student at the University of Michigan. I live in San Francisco, and enjoy hiking, climbing, running and photography.
 
-Feel free to explore my website to learn more about my projects and interests.
+I am passionate about learning, win-wins, and emerging domains in the meta-cognitive hyper-space. If you want to contact me, don't hesitate to reach out.

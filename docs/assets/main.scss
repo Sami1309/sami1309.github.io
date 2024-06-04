@@ -1,0 +1,19 @@
+--- --- @import "minima";
+
+@media screen and (max-width: 900px) {
+    .site-nav {
+        position: absolute;
+        right: 90px;
+    }
+}
+
+nav ul li a {
+    color: #000;
+    /* Default text color */
+    text-decoration: none;
+}
+
+nav ul li a.active {
+    color: #ffa500;
+    /* Orange color for active link */
+}

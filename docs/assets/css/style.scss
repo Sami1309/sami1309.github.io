@@ -1,0 +1,12 @@
+--- --- @import "{{ site.theme }}";
+
+nav ul li a {
+    color: #000;
+    /* Default text color */
+    text-decoration: none;
+}
+
+nav ul li a.active {
+    color: #ffa500;
+    /* Orange color for active link */
+}
