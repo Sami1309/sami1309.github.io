@@ -281,18 +281,12 @@ const App = () => {
           <section style={{ marginBottom: '2rem' }}>
             <h2 style={{ fontSize: 'clamp(1.5rem, 3vw, 2rem)', marginBottom: '1rem' }}>About me</h2>
             <p style={{ fontSize: 'clamp(0.9rem, 2vw, 1.1rem)', lineHeight: '1.6', marginBottom: '1rem' }}>
-              At the moment I'm working as a Full-Stack Software Engineer, creating amazing digital experiences. I thrive in dynamic 
-              and smart teams, where we create the best solutions for users and businesses.
+              At the moment I'm working on moteo.dev, aplatform for producing motion graphics with AI
             </p>
+    
             <p style={{ fontSize: 'clamp(0.9rem, 2vw, 1.1rem)', lineHeight: '1.6', marginBottom: '1rem' }}>
-              My passion lies in the fields of Artificial Intelligence and Machine Learning Operations (MLOps). I'm dedicated to leveraging these technologies to develop innovative solutions that can benefit humanity as a whole. My goal is to create AI tools that are not only powerful but also ethical and accessible to all.
             </p>
-            <p style={{ fontSize: 'clamp(0.9rem, 2vw, 1.1rem)', lineHeight: '1.6', marginBottom: '1rem' }}>
-              In my work with AI and MLOps, I focus on creating scalable and efficient machine learning pipelines, automating model deployment, and ensuring the reliability and reproducibility of AI systems. I believe that by streamlining these processes, we can accelerate the development of AI applications that address critical global challenges in areas such as healthcare, education, and environmental sustainability.
-            </p>
-            <p style={{ fontSize: 'clamp(0.9rem, 2vw, 1.1rem)', lineHeight: '1.6' }}>
-              I'm constantly exploring new ways to make AI more interpretable, robust, and aligned with human values. My ultimate vision is to contribute to the development of AI systems that augment human capabilities, foster innovation, and create a positive impact on society.
-            </p>
+
           </section>
   
           <section>
